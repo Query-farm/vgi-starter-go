@@ -1,7 +1,7 @@
 {
   "template": "vgi-starter-go",
   "lang": "go",
-  "template_version": "1.3.4",
+  "template_version": "1.3.6",
   "post_init": [
     "go mod tidy",
     "gofmt -w ."
